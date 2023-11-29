@@ -6,12 +6,14 @@ import Image from "next/image";
 interface Props {}
 
 const TEXTS = [
-  "Next.js",
-  "React.js",
+  "Node.js",
+  "Express.js",
   "TypeScript",
   "JavaScript",
   "HTML",
   "CSS",
+  "Express.js",
+  "Elementor",
 ];
 
 export const HomeInfo: FunctionComponent<Props> = () => {

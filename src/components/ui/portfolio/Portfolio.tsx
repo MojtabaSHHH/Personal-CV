@@ -8,25 +8,25 @@ interface Props {}
 
 const items = [
   {
-    image: "/images/me.jpg",
+    image: "/images/me.png",
     name: "name",
     description: "description",
     link: "/",
   },
   {
-    image: "/images/me.jpg",
+    image: "/images/me.png",
     name: "name",
     description: "description",
     link: "/",
   },
   {
-    image: "/images/me.jpg",
+    image: "/images/me.png",
     name: "name",
     description: "description",
     link: "/",
   },
   {
-    image: "/images/me.jpg",
+    image: "/images/me.png",
     name: "name",
     description: "description",
     link: "/",

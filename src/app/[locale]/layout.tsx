@@ -20,8 +20,8 @@ interface Props {
 }
 
 export const metadata: Metadata = {
-  title: "Mojtaba Razaghi",
-  description: "Frontend Developer",
+  title: "Mojtaba Shabanzadeh",
+  description: "Backend Developer",
 };
 
 export function generateStaticParams() {
